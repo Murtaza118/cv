@@ -1,0 +1,51 @@
+body {
+  background-color: aliceblue;
+  width: 70%;
+}
+#p1InTable {
+  font-style: italic;
+  font-size: medium;
+  text-transform: capitalize;
+  font-family: "Times New Roman", Times, serif;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 30px;
+  height: 0px;
+  border-width: 5px;
+  border-color: gray;
+  width: 15%;
+}
+
+/* #main {
+  border-style: dashed; */
+
+.td {
+  align-self: center;
+  border-style: groove;
+  vertical-align: middle;
+  column-gap: 10;
+  border-color: blueviolet;
+}
+h4 {
+  color: blueviolet;
+  font-style: italic;
+  text-align: center;
+  border-color: gray;
+}
+#main {
+  border-spacing: 3px;
+}
+h3 {
+  text-align: left;
+  font-size: medium;
+}
+.aside {
+  border: 3px;
+  border-style: dotted;
+  width: 15%;
+}
+.lbl {
+  text-transform: capitalize;
+}
